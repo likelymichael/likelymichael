@@ -3,7 +3,7 @@
 🌱 I’m currently learning Python, Go, and JS.
 
 List of my projects:
-- [Race Performance Sim](https://github.com/mclacore/race-performance-sim)
+- [Race Performance Sim (Python)](https://github.com/mclacore/race-performance-sim)
 
 <!--
 **mclacore/mclacore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
