@@ -6,8 +6,8 @@ List of my projects:
 - [Race Performance Sim (Python)](https://github.com/mclacore/race-performance-sim)
 
 List of my contributions:
-- [VSCode extension]([https://github.com/massdriver-cloud/vscode-massdriver](https://github.com/massdriver-cloud/vscode-massdriver/commits?author=mclacore))
-- [Azure DevOps pipeline extension]([https://github.com/massdriver-cloud/azure-devops-pipelines](https://github.com/massdriver-cloud/azure-devops-pipelines/commits?author=mclacore))
+- [VSCode extension](https://github.com/massdriver-cloud/vscode-massdriver/commits?author=mclacore)
+- [Azure DevOps pipeline extension](https://github.com/massdriver-cloud/azure-devops-pipelines/commits?author=mclacore)
 - [CLI](https://github.com/massdriver-cloud/mass/commits?author=mclacore)
 
 <!--
