@@ -1,13 +1,16 @@
 ### Hello there 👋
 
-🌱 I’m currently learning Python, Go, and JS.
+🌱 I’m currently learning Python, Go, TS, and JS.
 
-List of my projects:
+I’m currently working on ...:
 - [Race Performance Sim (Python)](https://github.com/mclacore/race-performance-sim)
+- [JQ expression assembler](https://github.com/mclacore/jq-assembler)
 
-List of my contributions:
+List of my work projects:
 - [VSCode extension](https://github.com/massdriver-cloud/vscode-massdriver/commits?author=mclacore)
 - [Azure DevOps pipeline extension](https://github.com/massdriver-cloud/azure-devops-pipelines/commits?author=mclacore)
+
+List of my noteworthy contributions:
 - [CLI](https://github.com/massdriver-cloud/mass/commits?author=mclacore)
 
 <!--
@@ -15,7 +18,7 @@ List of my contributions:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
