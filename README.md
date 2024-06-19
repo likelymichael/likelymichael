@@ -3,7 +3,7 @@
 🌱 I’m currently learning Python, Go, TS, and JS.
 
 I’m currently working on ...:
-- [Race Performance Sim (Python)](https://github.com/mclacore/race-performance-sim)
+- [Race Performance Sim](https://github.com/mclacore/race-performance-sim)
 - [JQ expression assembler](https://github.com/mclacore/jq-assembler)
 
 List of my work projects:
