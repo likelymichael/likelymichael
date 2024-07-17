@@ -3,8 +3,7 @@
 🌱 I’m currently learning Python, Go, TS, and JS.
 
 I’m currently working on ...:
-- [Race Performance Sim](https://github.com/mclacore/race-performance-sim)
-- [JQ expression assembler](https://github.com/mclacore/jq-assembler)
+- [Password Generator app](https://github.com/mclacore/password-generator)
 
 List of my work projects:
 - [VSCode extension](https://github.com/massdriver-cloud/vscode-massdriver/commits?author=mclacore)
