@@ -44,7 +44,7 @@ Gawk at the certifications I've earned:
 
 <div align="left">
 <a href="https://learn.microsoft.com/en-us/users/michaellacore-2993/credentials/d5b4a419852d8860" target="_blank">
-    <img width="100" src="https://images.credly.com/images/987adb7e-49be-4e24-b67e-55986bd3fe66/linkedin_thumb_azure-solutions-architect-expert-600x600.png" alt="AZ305" title="AZ305"/>
+    <img width="100" src="https://www.flexmind.co/wp-content/uploads/2022/09/azure-solutions-architect-expert-420X420.png" alt="AZ305" title="AZ305"/>
 </a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/MichaelLacore-2993/38667826F6066210?sharingId=B747F90DCEE70C6D" target="_blank">
     <img width="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fk21academy.com%2Fwp-content%2Fuploads%2F2020%2F07%2FAZ-204-Logo.png&f=1&nofb=1&ipt=72150235d4a57481aede8afedd4edfb8fe05edb00f816f388f10100452b7cd5f&ipo=images" alt="AZ204" title="AZ204"/>
