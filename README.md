@@ -44,11 +44,17 @@ Gawk at the certifications I've earned:
 
 <div align="left">
 <a href="https://learn.microsoft.com/en-us/users/michaellacore-2993/credentials/d5b4a419852d8860" target="_blank">
-    <img width="100" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="AZ305" title="AZ305"/>
+    <img width="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.credly.com%2Fimages%2F987adb7e-49be-4e24-b67e-55986bd3fe66%2Flinkedin_thumb_azure-solutions-architect-expert-600x600.png&f=1&nofb=1&ipt=91d307e20e01bd55825ad1d5d6b2b022abf22053dae754f7f38ff7fe179f7bb1&ipo=images" alt="AZ305" title="AZ305"/>
 </a>
- <code><img width="100" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="AZ204" title="AZ204"/></code>
- <code><img width="100" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="AZ104" title="AZ104"/></code>
- <code><img width="100" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWSDev" title="AWSDev"/></code>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/MichaelLacore-2993/38667826F6066210?sharingId=B747F90DCEE70C6D" target="_blank">
+    <img width="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fk21academy.com%2Fwp-content%2Fuploads%2F2020%2F06%2FAZ-204-tag.jpg&f=1&nofb=1&ipt=b0f14bf94a675cf775f0c205fdfe08a8bb4f2c76c78269b878d85ff04fd6633a&ipo=images" alt="AZ204" title="AZ204"/>
+</a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/MichaelLacore-2993/4C6F29E71F5C19B1?sharingId=B747F90DCEE70C6D" target="_blank">
+    <img width="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcertadda.com%2Fwp-content%2Fuploads%2F2020%2F11%2Fazure-104.png&f=1&nofb=1&ipt=89587d46d42ca6b0a6a4e4f730ff750070460c013291f8abaf0f5f07e5a604d9&ipo=images" alt="AZ104" title="AZ104"/>
+</a>
+<a href="https://www.credly.com/badges/96b424ae-55d1-4a19-bf1d-c298925e384f/public_url" target="_blank">
+    <img width="100" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWSDev" title="AWSDev"/>
+</a>
 </div><br/>
 
 Peruse the webinars I've presented:
