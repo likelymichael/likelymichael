@@ -19,7 +19,7 @@ Check out the articles I've authored!
 - [The CIDR problem, and how we fixed it](https://www.massdriver.cloud/blogs/the-cidr-problem-and-how-we-fixed-it)
 
 Documentation I've written: 
-- [Mass Docs](https://github.com/massdriver-cloud/docs/commits?author=mclacore)
+- [Mass Docs](https://github.com/massdriver-cloud/docs/pulls?q=is:pr+is:closed+author:mclacore)
 
 <!--
 **mclacore/mclacore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
