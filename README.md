@@ -42,10 +42,12 @@ Drool over the documentation I've written:
 
 Gawk at the certifications I've earned:
 
-- [AZ: 305 - Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/MichaelLacore-2993/D5B4A419852D8860?sharingId=B747F90DCEE70C6D)
-- [AZ: 204 - Azure Developer Associate](https://learn.microsoft.com/api/credentials/share/en-us/MichaelLacore-2993/38667826F6066210?sharingId=B747F90DCEE70C6D)
-- [AZ: 104 - Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/MichaelLacore-2993/4C6F29E71F5C19B1?sharingId=B747F90DCEE70C6D)
-- [AWS: Certified Developer - Associate](https://www.credly.com/badges/96b424ae-55d1-4a19-bf1d-c298925e384f/public_url)
+<div align="left">
+ <code><img width="50" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="AZ305" title="AZ305"/></code>
+ <code><img width="50" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="AZ204" title="AZ204"/></code>
+ <code><img width="50" src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="AZ104" title="AZ104"/></code>
+ <code><img width="50" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWSDev" title="AWSDev"/></code>
+</div><br/>
 
 Peruse the webinars I've presented:
 
