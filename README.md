@@ -12,10 +12,14 @@ List of my work projects:
 List of my noteworthy contributions:
 - [Mass CLI](https://github.com/massdriver-cloud/mass/commits?author=mclacore)
 - [Airlock](https://github.com/massdriver-cloud/airlock/commits?author=mclacore)
+- [MDX in docs site](https://github.com/massdriver-cloud/docs/pull/84)
 
 Check out the articles I've authored!
 - [It Doesn't Have to be This Hard: A DevOps Journey](https://www.massdriver.cloud/blogs/it-doesnt-have-to-be-this-hard-a-devops-journey)
 - [The CIDR problem, and how we fixed it](https://www.massdriver.cloud/blogs/the-cidr-problem-and-how-we-fixed-it)
+
+Documentation I've written: 
+- [Mass Docs](https://github.com/massdriver-cloud/docs/commits?author=mclacore)
 
 <!--
 **mclacore/mclacore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
