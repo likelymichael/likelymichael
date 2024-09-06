@@ -10,7 +10,8 @@ List of my work projects:
 - [Azure DevOps pipeline extension](https://github.com/massdriver-cloud/azure-devops-pipelines/commits?author=mclacore)
 
 List of my noteworthy contributions:
-- [CLI](https://github.com/massdriver-cloud/mass/commits?author=mclacore)
+- [Mass CLI](https://github.com/massdriver-cloud/mass/commits?author=mclacore)
+- [Airlock](https://github.com/massdriver-cloud/airlock/commits?author=mclacore)
 
 Check out the articles I've authored!
 - [It Doesn't Have to be This Hard: A DevOps Journey](https://www.massdriver.cloud/blogs/it-doesnt-have-to-be-this-hard-a-devops-journey)
