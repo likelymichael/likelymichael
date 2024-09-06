@@ -22,8 +22,8 @@ List of my personal projects:
 
 List of my work projects:
 
-- [VSCode extension](https://github.com/massdriver-cloud/vscode-massdriver/commits?author=mclacore)
-- [Azure DevOps pipeline extension](https://github.com/massdriver-cloud/azure-devops-pipelines/commits?author=mclacore)
+- [VSCode extension](https://github.com/massdriver-cloud/vscode-massdriver/pulls?q=is:pr+is:closed+author:mclacore)
+- [Azure DevOps pipeline extension](https://github.com/massdriver-cloud/azure-devops-pipelines/pulls?q=is:pr+is:closed+author:mclacore)
 
 List of my noteworthy contributions:
 
