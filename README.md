@@ -22,13 +22,13 @@ List of my personal projects:
 
 List of my work projects:
 
-- [VSCode extension](https://github.com/massdriver-cloud/vscode-massdriver/pulls?q=is:pr+is:closed+author:mclacore)
-- [Azure DevOps pipeline extension](https://github.com/massdriver-cloud/azure-devops-pipelines/pulls?q=is:pr+is:closed+author:mclacore)
+- [VSCode extension](https://github.com/massdriver-cloud/vscode-massdriver/commits?author=mclacore)
+- [Azure DevOps pipeline extension](https://github.com/massdriver-cloud/azure-devops-pipelines/commits?author=mclacore)
 
 List of my noteworthy contributions:
 
-- [Mass CLI](https://github.com/massdriver-cloud/mass/pulls?q=is:pr+is:closed+author:mclacore)
-- [Airlock](https://github.com/massdriver-cloud/airlock/pulls?q=is:pr+is:closed+author:mclacore)
+- [Mass CLI](https://github.com/massdriver-cloud/mass/commits?author=mclacore)
+- [Airlock](https://github.com/massdriver-cloud/airlock/commits?author=mclacore)
 - [MDX in docs site](https://github.com/massdriver-cloud/docs/pull/84)
 
 Check out the articles I've authored:
