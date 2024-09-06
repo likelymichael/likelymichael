@@ -1,4 +1,6 @@
-#### Hi there! I'm Michael, a Cloud Solutions Architect and Platform Engineer with a deep understanding of cloud infrastructure, automation, and developer tooling. Over the years, I've had the opportunity to design and manage cloud solutions, implement DevOps practices, and build platforms that empower teams to maximize their tech stack. Recently, I’ve developed a strong passion for software development, focusing on creating efficient and impactful tools with Go, JavaScript, and TypeScript. I’m always excited to collaborate, learn, and contribute to innovative projects that solve real-world problems.
+#### Hi there! I'm Michael, a Cloud Solutions Architect and Platform Engineer with a deep understanding of cloud infrastructure, automation, and developer tooling. Over the years, I've had the opportunity to design and manage cloud solutions, implement DevOps practices, and build platforms that empower teams to maximize their tech stack. 
+
+### Recently, I’ve developed a strong passion for software development, focusing on creating efficient and impactful tools with Go, JavaScript, and TypeScript. I’m always excited to collaborate, learn, and contribute to innovative projects that solve real-world problems.
 
 I’m currently working on ...:
 - [Password Generator app](https://github.com/mclacore/password-generator)
