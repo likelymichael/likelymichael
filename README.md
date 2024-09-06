@@ -16,31 +16,31 @@ Recently, I’ve developed a strong passion for software development, focusing o
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform"/></code>
 </div><br/>
 
-List of my personal projects:
+List of my **personal** projects:
 
 - [Password Generator app](https://github.com/mclacore/password-generator)
 
-List of my work projects:
+List of my **work** projects:
 
 - [VSCode extension](https://github.com/massdriver-cloud/vscode-massdriver/commits?author=mclacore)
 - [Azure DevOps pipeline extension](https://github.com/massdriver-cloud/azure-devops-pipelines/commits?author=mclacore)
 
-List of my noteworthy contributions:
+List of my noteworthy **contributions**:
 
 - [Mass CLI](https://github.com/massdriver-cloud/mass/commits?author=mclacore)
 - [Airlock](https://github.com/massdriver-cloud/airlock/commits?author=mclacore)
 - [MDX in docs site](https://github.com/massdriver-cloud/docs/pull/84)
 
-Check out the articles I've authored:
+Check out the **articles** I've authored:
 
 - [It Doesn't Have to be This Hard: A DevOps Journey](https://www.massdriver.cloud/blogs/it-doesnt-have-to-be-this-hard-a-devops-journey)
 - [The CIDR problem, and how we fixed it](https://www.massdriver.cloud/blogs/the-cidr-problem-and-how-we-fixed-it)
 
-Drool over the documentation I've written:
+Drool over the **documentation** I've written:
 
 - [Mass Docs](https://github.com/massdriver-cloud/docs/pulls?q=is:pr+is:closed+author:mclacore)
 
-Gawk at the certifications I've earned:
+Gawk at the **certifications** I've earned:
 
 <div align="left">
 <a href="https://learn.microsoft.com/en-us/users/michaellacore-2993/credentials/d5b4a419852d8860" target="_blank">
@@ -57,7 +57,7 @@ Gawk at the certifications I've earned:
 </a>
 </div><br/>
 
-Peruse the webinars I've presented:
+Peruse the **webinars** I've presented:
 
 - [Migrate from Heroku to Azure](https://www.youtube.com/watch?v=YRTs2MYXEoM)
 - [Get started with OpenTofu on Azure](https://www.youtube.com/watch?v=LD8250e01BQ)
