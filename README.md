@@ -18,17 +18,18 @@ Recently, I’ve developed a strong passion for software development, focusing o
 
 List of my **personal** projects:
 
-- [Password Generator app](https://github.com/mclacore/password-generator)
+- [Passh](https://github.com/mclacore/passh) - A password manager CLI tool written in Go
+- [Password Generator app](https://github.com/mclacore/password-generator) - A simple password generator app written in Python
 
 List of my **work** projects:
 
-- [VSCode extension](https://github.com/massdriver-cloud/vscode-massdriver/commits?author=mclacore)
-- [Azure DevOps pipeline extension](https://github.com/massdriver-cloud/azure-devops-pipelines/commits?author=mclacore)
+- [VSCode extension](https://github.com/massdriver-cloud/vscode-massdriver/commits?author=mclacore) - A VSCode extension that abstracts the Mass CLI written in TypeScript
+- [Azure DevOps pipeline extension](https://github.com/massdriver-cloud/azure-devops-pipelines/commits?author=mclacore) - A pipeline extension for Azure DevOps written in TypeScript
 
 List of my noteworthy **contributions**:
 
-- [Mass CLI](https://github.com/massdriver-cloud/mass/commits?author=mclacore)
-- [Airlock](https://github.com/massdriver-cloud/airlock/commits?author=mclacore)
+- [Mass CLI](https://github.com/massdriver-cloud/mass/commits?author=mclacore) - A CLI tool for managing infrastructure and applications in Massdriver
+- [Airlock](https://github.com/massdriver-cloud/airlock/commits?author=mclacore) - An open source tool that generates JSON schema from other sources, e.g. Terraform, Helm, Bicep
 - [MDX in docs site](https://github.com/massdriver-cloud/docs/pull/84)
 
 Check out the **articles** I've authored:
